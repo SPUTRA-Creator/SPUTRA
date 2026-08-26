@@ -8,8 +8,17 @@ authors:
     orcid: "https://orcid.org/0000-0002-9979-8977"
     affiliation: "L2GEGI Laboratory, University of Tiaret, Algeria"
 version: "1.0.0"
+doi: "10.5281/zenodo.22115029"
 date-released: "2026-08-25"
 license: MIT
+repository-code: "https://github.com/SPUTRA-Creator/SPUTRA"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22115029"
+    description: "The versioned DOI for version 1.0.0"
+  - type: doi
+    value: "10.5281/zenodo.22115028"
+    description: "The concept DOI (all versions)"
 abstract: >-
   Monte Carlo simulation software for magnetron sputter deposition.
   Couples a SRIM-type target-emission stage with a SIMTRA-type gas-phase
