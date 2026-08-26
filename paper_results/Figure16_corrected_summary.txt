@@ -1,0 +1,8 @@
+SPUTRA v1.0.0 corrected Figure 16
+Geometry: target-substrate distance = 8.0 cm; Ti/Cu target radius = 2.5 cm; substrate radius = 5.0 cm.
+Cu: Keller-Simmons amplitude=32.380283 %, pd0=2.072532 Pa cm, R2=0.947806
+Cu: empirical-exponential eta0=30.439361 %, L=5.941519 Pa cm, R2=0.987291
+Ti: Keller-Simmons amplitude=32.529407 %, pd0=1.942801 Pa cm, R2=0.950758
+Ti: empirical-exponential eta0=30.422667 %, L=5.625016 Pa cm, R2=0.989085
+Reference comparison values (literature, not plotted in Fig. 16): Al experiment (pd)_0 = 4.6 Pa cm; Cu MC at 400 V (pd)_0 = 7.4 Pa cm.
+Note: the empirical-exponential L values are descriptive attenuation scales, not Keller-Simmons (pd)_0 products, and are not directly comparable to the literature (pd)_0 values above.

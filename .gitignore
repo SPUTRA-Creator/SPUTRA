@@ -1,0 +1,18 @@
+# 1. Ignore all Python source code files to keep them private
+*.py
+core/
+models/
+services/
+gui/
+
+# 2. Ignore internal build and cache environments
+__pycache__/
+build/
+venv/
+.venv/
+.vscode/
+.idea/
+
+# 3. UN-IGNORE (Track) the final production executable artifacts
+!dist/
+!*.exe

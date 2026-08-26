@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SPUTRA: Monte Carlo simulation software for magnetron sputter deposition"
+type: software
+authors:
+  - family-names: "Bouazza"
+    given-names: "Abdelkader"
+    orcid: "https://orcid.org/0000-0002-9979-8977"
+    affiliation: "L2GEGI Laboratory, University of Tiaret, Algeria"
+version: "1.0.0"
+date-released: "2026-08-25"
+license: MIT
+abstract: >-
+  Monte Carlo simulation software for magnetron sputter deposition.
+  Couples a SRIM-type target-emission stage with a SIMTRA-type gas-phase
+  transport stage using hard-sphere binary-collision kinematics and an
+  energy-dependent mean free path. Models the sputtered-particle chain from
+  emission at the target through gas-phase scattering to deposition on the
+  substrate, with built-in visualization, parametric sweeps, and results
+  export. Distributed as a self-contained Windows executable.
