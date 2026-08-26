@@ -1,6 +1,6 @@
 # SPUTRA
 
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22115029.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22115029.svg)](DOI)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)](../../releases)
 
